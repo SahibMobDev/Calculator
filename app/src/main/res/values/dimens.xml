@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edit_text_border_margin">16dp</dimen>
+    <dimen name="edit_text_padding">8dp</dimen>
+    <dimen name="margin_eight">8dp</dimen>
+    <dimen name="button_txt_size">24sp</dimen>
+</resources>
